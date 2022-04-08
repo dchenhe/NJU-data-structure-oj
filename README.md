@@ -1,4 +1,4 @@
-# NJU-data-structure-oj
+# NJU-data-structure-oj(南京大学数据结构oj)
 
 2022 fall nju data structure oj
 
